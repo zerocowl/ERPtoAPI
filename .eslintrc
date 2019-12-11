@@ -1,0 +1,18 @@
+{
+  "env": {
+      "node": true,
+      "es6": true
+  },
+  "extends": ["airbnb", "prettier"],
+  "plugins": [
+      "prettier"        
+  ],
+  "rules": {
+      "linebreak-style": 0,
+      "no-console": 1,
+      "prettier/prettier": "error",
+      "camelcase" : "warn",
+      "global-require": "warn"
+  },
+  "parser": "babel-eslint"
+}

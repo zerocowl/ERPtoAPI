@@ -1,0 +1,2766 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "app/.external-ecmascript.js",
+    "static": true,
+    "longname": "app/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "app/config/config.development.js",
+    "content": "const config = {\r\n  debug: {\r\n    level: 'debug',\r\n    available: true\r\n  }\r\n};\r\n\r\nexport default config;\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/config/config.development.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "variable",
+    "name": "config",
+    "memberof": "app/config/config.development.js",
+    "static": true,
+    "longname": "app/config/config.development.js~config",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/config/config.development.js",
+    "importStyle": "config",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"debug\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "app/config/config.homolog.js",
+    "content": "const config = {\r\n  debug: {\r\n    level: 'debug',\r\n    available: true\r\n  }\r\n};\r\n\r\nexport default config;\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/config/config.homolog.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "variable",
+    "name": "config",
+    "memberof": "app/config/config.homolog.js",
+    "static": true,
+    "longname": "app/config/config.homolog.js~config",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/config/config.homolog.js",
+    "importStyle": "config",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"debug\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "app/config/config.production.js",
+    "content": "const config = {\r\n  debug: {\r\n    level: 'debug',\r\n    available: true\r\n  }\r\n};\r\n\r\nexport default config;\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/config/config.production.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "variable",
+    "name": "config",
+    "memberof": "app/config/config.production.js",
+    "static": true,
+    "longname": "app/config/config.production.js~config",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/config/config.production.js",
+    "importStyle": "config",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"debug\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "app/config/index.js",
+    "content": "import development from './config.development';\r\nimport homolog from './config.homolog';\r\nimport production from './config.production';\r\n\r\nlet cfg = null;\r\n\r\nconsole.log('ENVIRONMENT: ', process.env.NODE_ENV);\r\n\r\nswitch (process.env.NODE_ENV) {\r\n  case 'production':\r\n    cfg = production;\r\n    break;\r\n  case 'homolog':\r\n    cfg = homolog;\r\n    break;\r\n  default:\r\n    cfg = development;\r\n    break;\r\n}\r\n\r\nconst config = cfg;\r\n\r\nexport default config;\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/config/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "cfg",
+    "memberof": "app/config/index.js",
+    "static": true,
+    "longname": "app/config/index.js~cfg",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/config/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "config",
+    "memberof": "app/config/index.js",
+    "static": true,
+    "longname": "app/config/index.js~config",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/config/index.js",
+    "importStyle": "config",
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "app/core/api/constants.js",
+    "content": "",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/core/api/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "app/core/api/index.js",
+    "content": "// TODO Adicionar database connection ao constructor\r\n\r\nexport default class APIBase {}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/core/api/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "class",
+    "name": "APIBase",
+    "memberof": "app/core/api/index.js",
+    "static": true,
+    "longname": "app/core/api/index.js~APIBase",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/core/api/index.js",
+    "importStyle": "APIBase",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "app/core/erp/constants.js",
+    "content": "",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/core/erp/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "file",
+    "name": "app/core/erp/index.js",
+    "content": "import find from 'lodash/find';\r\nimport { NotFoundError } from '../../util';\r\nimport { ERP_BASE } from '../../__mocks__/erp_database';\r\nimport { HTTPInterceptor } from '../../interceptors';\r\n\r\n// TODO Adicionar database connection ao constructor\r\n// TODO adicionar error default e logs\r\n\r\nexport default class ERPBase {\r\n  constructor(options) {\r\n    this.data = options.mock ? ERP_BASE : null;\r\n  }\r\n\r\n  activated() {\r\n    return this.data.filter(elem => elem.enabled);\r\n  }\r\n\r\n  activatedActions() {\r\n    return this.data.map(elem => elem.actions);\r\n  }\r\n\r\n  execute(actions, params) {\r\n    this.result = [];\r\n    const erp = find(this.activated(), { id: params.cod_erp });\r\n    const http = new HTTPInterceptor(erp.url_base, erp.headers);\r\n    actions.forEach(name => {\r\n      const act = erp.actions.filter(elem => elem.name === name);\r\n      if (act.length) {\r\n        switch (act[0].method) {\r\n          case 'GET':\r\n            this.result.push(http.get(act[0].path, params));\r\n            break;\r\n          case 'POST':\r\n            this.result.push(http.post(act[0].path, params));\r\n            break;\r\n          default:\r\n            console.log(`Invalid Method in action ${act[0].name}|| ERP:${erp.name}`);\r\n            break;\r\n        }\r\n      } else {\r\n        this.result.push(\r\n          new Promise((resolve, reject) => {\r\n            reject(new NotFoundError(actions));\r\n          })\r\n        );\r\n      }\r\n    });\r\n    return Promise.all(this.result);\r\n  }\r\n\r\n  executeInAll(action, params) {\r\n    this.result = [];\r\n    this.activated().forEach(erp => {\r\n      const http = new HTTPInterceptor(erp.url_base, erp.headers);\r\n      const act = erp.actions.filter(elem => elem.name === action);\r\n      switch (act[0].method) {\r\n        case 'GET':\r\n          this.result.push(http.get(act[0].path, params));\r\n          break;\r\n        case 'POST':\r\n          this.result.push(http.post(act[0].path, params));\r\n          break;\r\n        default:\r\n          console.log(`Invalid Method in action ${act[0].name}|| ERP:${erp.name}`);\r\n          break;\r\n      }\r\n    });\r\n    return Promise.all(this.result);\r\n  }\r\n}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/core/erp/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 62,
+    "kind": "class",
+    "name": "ERPBase",
+    "memberof": "app/core/erp/index.js",
+    "static": true,
+    "longname": "app/core/erp/index.js~ERPBase",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/core/erp/index.js",
+    "importStyle": "ERPBase",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 63,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "app/core/erp/index.js~ERPBase",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/core/erp/index.js~ERPBase#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true
+  },
+  {
+    "__docId__": 64,
+    "kind": "member",
+    "name": "data",
+    "memberof": "app/core/erp/index.js~ERPBase",
+    "static": false,
+    "longname": "app/core/erp/index.js~ERPBase#data",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "method",
+    "name": "activated",
+    "memberof": "app/core/erp/index.js~ERPBase",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/core/erp/index.js~ERPBase#activated",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "method",
+    "name": "activatedActions",
+    "memberof": "app/core/erp/index.js~ERPBase",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/core/erp/index.js~ERPBase#activatedActions",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "method",
+    "name": "execute",
+    "memberof": "app/core/erp/index.js~ERPBase",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/core/erp/index.js~ERPBase#execute",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "params": [
+      {
+        "name": "actions",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "member",
+    "name": "result",
+    "memberof": "app/core/erp/index.js~ERPBase",
+    "static": false,
+    "longname": "app/core/erp/index.js~ERPBase#result",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "method",
+    "name": "executeInAll",
+    "memberof": "app/core/erp/index.js~ERPBase",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/core/erp/index.js~ERPBase#executeInAll",
+    "access": "public",
+    "description": null,
+    "lineNumber": 51,
+    "undocument": true,
+    "params": [
+      {
+        "name": "action",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "app/core/index.js",
+    "content": "import ERPBase from './erp';\r\nimport APIBase from './api';\r\n\r\nexport { ERPBase, APIBase };\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/core/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "file",
+    "name": "app/database/index.js",
+    "content": "",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/database/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 73,
+    "kind": "file",
+    "name": "app/helpers/registerRoutes.js",
+    "content": "import { join } from 'path';\r\nimport { sync } from 'filter-files';\r\nimport { sync as _sync } from 'is-directory';\r\nimport { flatten, pick } from 'lodash';\r\n\r\nconst isRouteFile = fileName => /((routes)|(route))\\.js$/.test(fileName);\r\n\r\nconst getRoutesFilesFromDirname = dirName =>\r\n  sync(\r\n    dirName,\r\n    (fp, dir, files, recurse) => {\r\n      if (isRouteFile(fp)) {\r\n        return true;\r\n      }\r\n      return _sync(join(dir, fp));\r\n    },\r\n    true\r\n  );\r\n\r\nconst loadRoutesByPath = dirName => {\r\n  const routes = getRoutesFilesFromDirname(dirName).map(require);\r\n\r\n  return flatten(routes);\r\n};\r\n\r\nconst registerRoutesByPath = (server, dirName) => {\r\n  const routes = loadRoutesByPath(dirName);\r\n\r\n  routes.forEach(route => {\r\n    const { method, handler } = route;\r\n    const opts = pick(route, ['path', 'name', 'version']);\r\n    server[method](opts, handler);\r\n  });\r\n};\r\n\r\nexport default registerRoutesByPath;\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/helpers/registerRoutes.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "isRouteFile",
+    "memberof": "app/helpers/registerRoutes.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/helpers/registerRoutes.js~isRouteFile",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/helpers/registerRoutes.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "fileName",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "getRoutesFilesFromDirname",
+    "memberof": "app/helpers/registerRoutes.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/helpers/registerRoutes.js~getRoutesFilesFromDirname",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/helpers/registerRoutes.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "dirName",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "loadRoutesByPath",
+    "memberof": "app/helpers/registerRoutes.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/helpers/registerRoutes.js~loadRoutesByPath",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/helpers/registerRoutes.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [
+      {
+        "name": "dirName",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 77,
+    "kind": "function",
+    "name": "registerRoutesByPath",
+    "memberof": "app/helpers/registerRoutes.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/helpers/registerRoutes.js~registerRoutesByPath",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/helpers/registerRoutes.js",
+    "importStyle": "registerRoutesByPath",
+    "description": null,
+    "lineNumber": 26,
+    "undocument": true,
+    "params": [
+      {
+        "name": "server",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "dirName",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 78,
+    "kind": "file",
+    "name": "app/helpers/templateEngine.js",
+    "content": "import { DataTransform } from 'node-json-transform';\r\nimport { FEEGOW_TEMPLATE } from '../__mocks__/template_feegow_erp';\r\n\r\nexport default class TemplateEngine {\r\n  // add getTemplate by COD_ERP\r\n  toERP(data) {\r\n    this.res = DataTransform(data, FEEGOW_TEMPLATE).transform();\r\n    return this.res;\r\n  }\r\n\r\n  toAPI(data, template) {\r\n    this.res = DataTransform(data, template).transform();\r\n    return this.res;\r\n  }\r\n}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/helpers/templateEngine.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 79,
+    "kind": "class",
+    "name": "TemplateEngine",
+    "memberof": "app/helpers/templateEngine.js",
+    "static": true,
+    "longname": "app/helpers/templateEngine.js~TemplateEngine",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/helpers/templateEngine.js",
+    "importStyle": "TemplateEngine",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 80,
+    "kind": "method",
+    "name": "toERP",
+    "memberof": "app/helpers/templateEngine.js~TemplateEngine",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/helpers/templateEngine.js~TemplateEngine#toERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "data",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "member",
+    "name": "res",
+    "memberof": "app/helpers/templateEngine.js~TemplateEngine",
+    "static": false,
+    "longname": "app/helpers/templateEngine.js~TemplateEngine#res",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "method",
+    "name": "toAPI",
+    "memberof": "app/helpers/templateEngine.js~TemplateEngine",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/helpers/templateEngine.js~TemplateEngine#toAPI",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [
+      {
+        "name": "data",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "template",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 84,
+    "kind": "file",
+    "name": "app/interceptors/http/index.js",
+    "content": "import fetch from 'node-fetch';\r\nimport { URL, URLSearchParams } from 'url';\r\n\r\nexport default class HTTPInterceptor {\r\n  constructor(url, headers = {}) {\r\n    this.url = url;\r\n    this.headers = headers;\r\n  }\r\n\r\n  get(path, query = {}) {\r\n    const url = new URL(`${this.url}${path}`);\r\n    url.search = new URLSearchParams(query);\r\n    return fetch(url, { method: 'GET', headers: this.headers }).then(req => req.json());\r\n  }\r\n\r\n  post(path, body = {}) {\r\n    const url = new URL(`${this.url}${path}`);\r\n    return fetch(url, { method: 'POST', headers: this.headers, body: JSON.stringify(body) }).then(\r\n      req => req.json()\r\n    );\r\n  }\r\n}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/interceptors/http/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 85,
+    "kind": "class",
+    "name": "HTTPInterceptor",
+    "memberof": "app/interceptors/http/index.js",
+    "static": true,
+    "longname": "app/interceptors/http/index.js~HTTPInterceptor",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/interceptors/http/index.js",
+    "importStyle": "HTTPInterceptor",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 86,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "app/interceptors/http/index.js~HTTPInterceptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/interceptors/http/index.js~HTTPInterceptor#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true
+  },
+  {
+    "__docId__": 87,
+    "kind": "member",
+    "name": "url",
+    "memberof": "app/interceptors/http/index.js~HTTPInterceptor",
+    "static": false,
+    "longname": "app/interceptors/http/index.js~HTTPInterceptor#url",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "member",
+    "name": "headers",
+    "memberof": "app/interceptors/http/index.js~HTTPInterceptor",
+    "static": false,
+    "longname": "app/interceptors/http/index.js~HTTPInterceptor#headers",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "method",
+    "name": "get",
+    "memberof": "app/interceptors/http/index.js~HTTPInterceptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/interceptors/http/index.js~HTTPInterceptor#get",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "params": [
+      {
+        "name": "path",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "query",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 90,
+    "kind": "method",
+    "name": "post",
+    "memberof": "app/interceptors/http/index.js~HTTPInterceptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/interceptors/http/index.js~HTTPInterceptor#post",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "params": [
+      {
+        "name": "path",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "body",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "file",
+    "name": "app/interceptors/index.js",
+    "content": "import HTTPInterceptor from './http';\r\nimport RPCInterceptor from './rpc';\r\n\r\nexport { HTTPInterceptor, RPCInterceptor };\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/interceptors/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 92,
+    "kind": "file",
+    "name": "app/interceptors/rpc/index.js",
+    "content": "export default class RPCInterceptor {}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/interceptors/rpc/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 93,
+    "kind": "class",
+    "name": "RPCInterceptor",
+    "memberof": "app/interceptors/rpc/index.js",
+    "static": true,
+    "longname": "app/interceptors/rpc/index.js~RPCInterceptor",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/interceptors/rpc/index.js",
+    "importStyle": "RPCInterceptor",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 94,
+    "kind": "file",
+    "name": "app/middlewares/wrapMiddleware.js",
+    "content": "import { boomify } from 'boom';\r\n\r\n/**\r\n * call a middleware\r\n * @method tryCatch\r\n * @param  {Function} fn\r\n * @return {Promise}\r\n */\r\nconst tryCatch = fn => {\r\n  try {\r\n    return Promise.resolve(fn());\r\n  } catch (e) {\r\n    return Promise.reject(e);\r\n  }\r\n};\r\n\r\n/**\r\n * @method sendError\r\n * @param  {ResponseRestify}  res response instance\r\n * @param  {Error}            e\r\n */\r\nconst sendError = (res, e) => {\r\n  const { output } = boomify(e);\r\n  res.send(output.statusCode, output);\r\n};\r\n\r\n/**\r\n * @method wrapMiddleware\r\n * @param  {Function}       middleware route middleware\r\n * @return {Function}\r\n */\r\nconst wrapMiddleware = middleware => (req, res) => {\r\n  const handler = () => middleware(req, res);\r\n  tryCatch(handler)\r\n    .then(result => {\r\n      res.json(result);\r\n    })\r\n    .catch(sendError);\r\n};\r\n\r\nexport default wrapMiddleware;\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/middlewares/wrapMiddleware.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 95,
+    "kind": "function",
+    "name": "tryCatch",
+    "memberof": "app/middlewares/wrapMiddleware.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/middlewares/wrapMiddleware.js~tryCatch",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/middlewares/wrapMiddleware.js",
+    "importStyle": null,
+    "description": "call a middleware",
+    "lineNumber": 9,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "tryCatch"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "fn",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Promise"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 96,
+    "kind": "function",
+    "name": "sendError",
+    "memberof": "app/middlewares/wrapMiddleware.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/middlewares/wrapMiddleware.js~sendError",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/middlewares/wrapMiddleware.js",
+    "importStyle": null,
+    "description": "",
+    "lineNumber": 22,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "sendError"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "ResponseRestify"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "response instance"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Error"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "e",
+        "description": ""
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 97,
+    "kind": "function",
+    "name": "wrapMiddleware",
+    "memberof": "app/middlewares/wrapMiddleware.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/middlewares/wrapMiddleware.js~wrapMiddleware",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/middlewares/wrapMiddleware.js",
+    "importStyle": "wrapMiddleware",
+    "description": "",
+    "lineNumber": 32,
+    "unknown": [
+      {
+        "tagName": "@method",
+        "tagValue": "wrapMiddleware"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Function"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "middleware",
+        "description": "route middleware"
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Function"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "file",
+    "name": "app/modules/agenda/constants.js",
+    "content": "export const DISPONIBILIDADE = 'agendaDisponibilidade';\r\nexport const STATUS = 'agendaStatus';\r\nexport const MOTIVOS = 'agendaMotivos';\r\nexport const CANAIS = 'agendaCanais';\r\nexport const LISTAR_AGENDAMENTOS = 'agendaListarAgendamento';\r\nexport const NOVO_AGENDAMENTO = 'agendaNovoAgendamento';\r\nexport const CANCELAR_AGENDAMENTO = 'agendaCancelarAgendamento';\r\nexport const REMARCAR_AGENDAMENTO = 'agendaRemarcarAgendamento';\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/agenda/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 99,
+    "kind": "variable",
+    "name": "DISPONIBILIDADE",
+    "memberof": "app/modules/agenda/constants.js",
+    "static": true,
+    "longname": "app/modules/agenda/constants.js~DISPONIBILIDADE",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/constants.js",
+    "importStyle": "{DISPONIBILIDADE}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 100,
+    "kind": "variable",
+    "name": "STATUS",
+    "memberof": "app/modules/agenda/constants.js",
+    "static": true,
+    "longname": "app/modules/agenda/constants.js~STATUS",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/constants.js",
+    "importStyle": "{STATUS}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "variable",
+    "name": "MOTIVOS",
+    "memberof": "app/modules/agenda/constants.js",
+    "static": true,
+    "longname": "app/modules/agenda/constants.js~MOTIVOS",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/constants.js",
+    "importStyle": "{MOTIVOS}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "variable",
+    "name": "CANAIS",
+    "memberof": "app/modules/agenda/constants.js",
+    "static": true,
+    "longname": "app/modules/agenda/constants.js~CANAIS",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/constants.js",
+    "importStyle": "{CANAIS}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 103,
+    "kind": "variable",
+    "name": "LISTAR_AGENDAMENTOS",
+    "memberof": "app/modules/agenda/constants.js",
+    "static": true,
+    "longname": "app/modules/agenda/constants.js~LISTAR_AGENDAMENTOS",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/constants.js",
+    "importStyle": "{LISTAR_AGENDAMENTOS}",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 104,
+    "kind": "variable",
+    "name": "NOVO_AGENDAMENTO",
+    "memberof": "app/modules/agenda/constants.js",
+    "static": true,
+    "longname": "app/modules/agenda/constants.js~NOVO_AGENDAMENTO",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/constants.js",
+    "importStyle": "{NOVO_AGENDAMENTO}",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 105,
+    "kind": "variable",
+    "name": "CANCELAR_AGENDAMENTO",
+    "memberof": "app/modules/agenda/constants.js",
+    "static": true,
+    "longname": "app/modules/agenda/constants.js~CANCELAR_AGENDAMENTO",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/constants.js",
+    "importStyle": "{CANCELAR_AGENDAMENTO}",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 106,
+    "kind": "variable",
+    "name": "REMARCAR_AGENDAMENTO",
+    "memberof": "app/modules/agenda/constants.js",
+    "static": true,
+    "longname": "app/modules/agenda/constants.js~REMARCAR_AGENDAMENTO",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/constants.js",
+    "importStyle": "{REMARCAR_AGENDAMENTO}",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 107,
+    "kind": "file",
+    "name": "app/modules/agenda/controller.js",
+    "content": "import Agenda from './index';\r\nimport { ERPBase } from '../../core';\r\nimport { STATUS_API } from '../__mocks__/template_feegow_erp';\r\n\r\nexport default class AgendaController extends Agenda {\r\n  constructor() {\r\n    const erp = new ERPBase({ mock: true });\r\n    super(erp);\r\n  }\r\n\r\n  static statusERP(req, res) {\r\n    super\r\n      .getStatusERP()\r\n      .then(data => {\r\n        const result = rt.toAPI(data[0], STATUS_API);\r\n        return res.json({\r\n          messsage: 'sucesso',\r\n          status: 200,\r\n          data: result\r\n        });\r\n      })\r\n      .catch(error => {\r\n        console.log(error);\r\n        return res.json({\r\n          messsage: error,\r\n          status: 400\r\n        });\r\n      });\r\n  }\r\n\r\n  static disponibilidadeERP(req, res) {\r\n    super\r\n      .getDisponibilidadeERP(req.query)\r\n      .then(result => {\r\n        res.json({\r\n          messsage: 'sucesso',\r\n          status: 200,\r\n          data: result\r\n        });\r\n      })\r\n      .catch(error => {\r\n        res.json({\r\n          messsage: error,\r\n          status: 400\r\n        });\r\n      });\r\n  }\r\n\r\n  static motivosERP(req, res) {\r\n    super\r\n      .getMotivosERP(req.query)\r\n      .then(result => {\r\n        res.json({\r\n          messsage: 'sucesso',\r\n          status: 200,\r\n          data: result\r\n        });\r\n      })\r\n      .catch(error => {\r\n        res.json({\r\n          messsage: error,\r\n          status: 400\r\n        });\r\n      });\r\n  }\r\n\r\n  static canaisERP(req, res) {\r\n    super\r\n      .getCanaisERP(req.query)\r\n      .then(result => {\r\n        res.json({\r\n          messsage: 'sucesso',\r\n          status: 200,\r\n          data: result\r\n        });\r\n      })\r\n      .catch(error => {\r\n        res.json({\r\n          messsage: error,\r\n          status: 400\r\n        });\r\n      });\r\n  }\r\n\r\n  static listarAgendamentosERP(req, res) {\r\n    super\r\n      .listarERP(req.query)\r\n      .then(result => {\r\n        res.json({\r\n          messsage: 'sucesso',\r\n          status: 200,\r\n          data: result\r\n        });\r\n      })\r\n      .catch(error => {\r\n        res.json({\r\n          messsage: error,\r\n          status: 400\r\n        });\r\n      });\r\n  }\r\n\r\n  static criarERP(req, res) {\r\n    super\r\n      .criarERP(req.body)\r\n      .then(result => {\r\n        res.json({\r\n          messsage: 'sucesso',\r\n          status: 200,\r\n          data: result\r\n        });\r\n      })\r\n      .catch(error => {\r\n        res.json({\r\n          messsage: error,\r\n          status: 400\r\n        });\r\n      });\r\n  }\r\n\r\n  static cancelarERP(req, res) {\r\n    super\r\n      .cancelarERP(req.body)\r\n      .then(result => {\r\n        res.json({\r\n          messsage: 'sucesso',\r\n          status: 200,\r\n          data: result\r\n        });\r\n      })\r\n      .catch(error => {\r\n        res.json({\r\n          messsage: error,\r\n          status: 400\r\n        });\r\n      });\r\n  }\r\n\r\n  static remarcarERP(req, res) {\r\n    super\r\n      .remarcarERP(req.body)\r\n      .then(result => {\r\n        res.json({\r\n          messsage: 'sucesso',\r\n          status: 200,\r\n          data: result\r\n        });\r\n      })\r\n      .catch(error => {\r\n        res.json({\r\n          messsage: error,\r\n          status: 400\r\n        });\r\n      });\r\n  }\r\n}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/agenda/controller.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 108,
+    "kind": "class",
+    "name": "AgendaController",
+    "memberof": "app/modules/agenda/controller.js",
+    "static": true,
+    "longname": "app/modules/agenda/controller.js~AgendaController",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/controller.js",
+    "importStyle": "AgendaController",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "app/modules/agenda/index.js~Agenda"
+    ]
+  },
+  {
+    "__docId__": 109,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "app/modules/agenda/controller.js~AgendaController",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/agenda/controller.js~AgendaController#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true
+  },
+  {
+    "__docId__": 110,
+    "kind": "method",
+    "name": "statusERP",
+    "memberof": "app/modules/agenda/controller.js~AgendaController",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/modules/agenda/controller.js~AgendaController.statusERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 111,
+    "kind": "method",
+    "name": "disponibilidadeERP",
+    "memberof": "app/modules/agenda/controller.js~AgendaController",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/modules/agenda/controller.js~AgendaController.disponibilidadeERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 112,
+    "kind": "method",
+    "name": "motivosERP",
+    "memberof": "app/modules/agenda/controller.js~AgendaController",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/modules/agenda/controller.js~AgendaController.motivosERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 49,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 113,
+    "kind": "method",
+    "name": "canaisERP",
+    "memberof": "app/modules/agenda/controller.js~AgendaController",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/modules/agenda/controller.js~AgendaController.canaisERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 67,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 114,
+    "kind": "method",
+    "name": "listarAgendamentosERP",
+    "memberof": "app/modules/agenda/controller.js~AgendaController",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/modules/agenda/controller.js~AgendaController.listarAgendamentosERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 85,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 115,
+    "kind": "method",
+    "name": "criarERP",
+    "memberof": "app/modules/agenda/controller.js~AgendaController",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/modules/agenda/controller.js~AgendaController.criarERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 103,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 116,
+    "kind": "method",
+    "name": "cancelarERP",
+    "memberof": "app/modules/agenda/controller.js~AgendaController",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/modules/agenda/controller.js~AgendaController.cancelarERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 121,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 117,
+    "kind": "method",
+    "name": "remarcarERP",
+    "memberof": "app/modules/agenda/controller.js~AgendaController",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "app/modules/agenda/controller.js~AgendaController.remarcarERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 139,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 118,
+    "kind": "file",
+    "name": "app/modules/agenda/index.js",
+    "content": "import Module from '../baseModule';\r\nimport {\r\n  DISPONIBILIDADE,\r\n  STATUS,\r\n  MOTIVOS,\r\n  CANAIS,\r\n  CANCELAR_AGENDAMENTO,\r\n  LISTAR_AGENDAMENTOS,\r\n  NOVO_AGENDAMENTO,\r\n  REMARCAR_AGENDAMENTO\r\n} from './constants';\r\n\r\nexport default class Agenda extends Module {\r\n  getDisponibilidadeERP(params) {\r\n    // TODO check params >JOI<\r\n    return this.ERP.execute([DISPONIBILIDADE], params);\r\n  }\r\n\r\n  getStatusERP(params) {\r\n    return this.ERP.execute([STATUS], params);\r\n  }\r\n\r\n  getMotivosERP(params) {\r\n    return this.ERP.execute([MOTIVOS], params);\r\n  }\r\n\r\n  getCanaisERP(params) {\r\n    return this.ERP.execute([CANAIS], params);\r\n  }\r\n\r\n  listarERP(params) {\r\n    return this.ERP.execute([LISTAR_AGENDAMENTOS], params);\r\n  }\r\n\r\n  criarERP(params) {\r\n    return this.ERP.execute([NOVO_AGENDAMENTO], params);\r\n  }\r\n\r\n  cancelarERP(params) {\r\n    return this.ERP.execute([CANCELAR_AGENDAMENTO], params);\r\n  }\r\n\r\n  remarcarERP(params) {\r\n    return this.ERP.execute([REMARCAR_AGENDAMENTO], params);\r\n  }\r\n}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/agenda/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 119,
+    "kind": "class",
+    "name": "Agenda",
+    "memberof": "app/modules/agenda/index.js",
+    "static": true,
+    "longname": "app/modules/agenda/index.js~Agenda",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/agenda/index.js",
+    "importStyle": "Agenda",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "app/modules/baseModule.js~Module"
+    ]
+  },
+  {
+    "__docId__": 120,
+    "kind": "method",
+    "name": "getDisponibilidadeERP",
+    "memberof": "app/modules/agenda/index.js~Agenda",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/agenda/index.js~Agenda#getDisponibilidadeERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 121,
+    "kind": "method",
+    "name": "getStatusERP",
+    "memberof": "app/modules/agenda/index.js~Agenda",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/agenda/index.js~Agenda#getStatusERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 122,
+    "kind": "method",
+    "name": "getMotivosERP",
+    "memberof": "app/modules/agenda/index.js~Agenda",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/agenda/index.js~Agenda#getMotivosERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 123,
+    "kind": "method",
+    "name": "getCanaisERP",
+    "memberof": "app/modules/agenda/index.js~Agenda",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/agenda/index.js~Agenda#getCanaisERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 124,
+    "kind": "method",
+    "name": "listarERP",
+    "memberof": "app/modules/agenda/index.js~Agenda",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/agenda/index.js~Agenda#listarERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 125,
+    "kind": "method",
+    "name": "criarERP",
+    "memberof": "app/modules/agenda/index.js~Agenda",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/agenda/index.js~Agenda#criarERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 35,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 126,
+    "kind": "method",
+    "name": "cancelarERP",
+    "memberof": "app/modules/agenda/index.js~Agenda",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/agenda/index.js~Agenda#cancelarERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 39,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 127,
+    "kind": "method",
+    "name": "remarcarERP",
+    "memberof": "app/modules/agenda/index.js~Agenda",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/agenda/index.js~Agenda#remarcarERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 43,
+    "undocument": true,
+    "params": [
+      {
+        "name": "params",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 128,
+    "kind": "file",
+    "name": "app/modules/agenda/model.js",
+    "content": "",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/agenda/model.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 129,
+    "kind": "file",
+    "name": "app/modules/agenda/routes.js",
+    "content": "import AgendaController from './controller';\r\n\r\nconst controller = new AgendaController();\r\n\r\nconst route = [\r\n  {\r\n    method: 'get',\r\n    path: '/erp/agenda/status',\r\n    name: 'agenda-status',\r\n    version: 'v1.0.0',\r\n    useWrap: true,\r\n    handler: (req, res) => controller.statusERP(req, res)\r\n  },\r\n  {\r\n    method: 'get',\r\n    path: '/erp/agenda/disponibilidade',\r\n    name: 'agenda-disponibilidade',\r\n    version: 'v1.0.0',\r\n    useWrap: true,\r\n    handler: (req, res) => controller.disponibilidadeERP(req, res)\r\n  }\r\n];\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/agenda/routes.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 130,
+    "kind": "variable",
+    "name": "controller",
+    "memberof": "app/modules/agenda/routes.js",
+    "static": true,
+    "longname": "app/modules/agenda/routes.js~controller",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/modules/agenda/routes.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "app/modules/agenda/controller.js~AgendaController"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 131,
+    "kind": "variable",
+    "name": "route",
+    "memberof": "app/modules/agenda/routes.js",
+    "static": true,
+    "longname": "app/modules/agenda/routes.js~route",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/modules/agenda/routes.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined[]"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 132,
+    "kind": "file",
+    "name": "app/modules/baseModule.js",
+    "content": "export default class Module {\r\n  constructor(ERP, API = null) {\r\n    this.ERP = ERP;\r\n    this.API = API;\r\n  }\r\n}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/baseModule.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 133,
+    "kind": "class",
+    "name": "Module",
+    "memberof": "app/modules/baseModule.js",
+    "static": true,
+    "longname": "app/modules/baseModule.js~Module",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/baseModule.js",
+    "importStyle": "Module",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 134,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "app/modules/baseModule.js~Module",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/modules/baseModule.js~Module#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true
+  },
+  {
+    "__docId__": 135,
+    "kind": "member",
+    "name": "ERP",
+    "memberof": "app/modules/baseModule.js~Module",
+    "static": false,
+    "longname": "app/modules/baseModule.js~Module#ERP",
+    "access": "public",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 136,
+    "kind": "member",
+    "name": "API",
+    "memberof": "app/modules/baseModule.js~Module",
+    "static": false,
+    "longname": "app/modules/baseModule.js~Module#API",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 137,
+    "kind": "file",
+    "name": "app/modules/index.js",
+    "content": "import Agenda from './agenda';\r\n\r\nexport default Agenda;\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 138,
+    "kind": "file",
+    "name": "app/modules/login/constants.js",
+    "content": "",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/login/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 139,
+    "kind": "file",
+    "name": "app/modules/login/index.js",
+    "content": "import Module from '../baseModule';\r\n\r\nexport default class Login extends Module {}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/login/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 140,
+    "kind": "class",
+    "name": "Login",
+    "memberof": "app/modules/login/index.js",
+    "static": true,
+    "longname": "app/modules/login/index.js~Login",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/modules/login/index.js",
+    "importStyle": "Login",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "app/modules/baseModule.js~Module"
+    ]
+  },
+  {
+    "__docId__": 141,
+    "kind": "file",
+    "name": "app/modules/login/model.js",
+    "content": "",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/modules/login/model.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 142,
+    "kind": "file",
+    "name": "app/routes/index.js",
+    "content": "import { Router } from 'express';\r\nimport Agenda from '../modules';\r\nimport TemplateEngine from '../helpers/templateEngine';\r\nimport { ERPBase } from '../core';\r\n// TODO create coontrollers and organize routes\r\n// TODO passar para IoC\r\n\r\nconst routes = Router();\r\nconst erp = new ERPBase({ mock: true });\r\nconst rt = new TemplateEngine();\r\n\r\nroutes.get('/', (req, res) => {\r\n  res.json({ index: { title: 'BayMax' } });\r\n});\r\n\r\nroutes.post('/teste', (req, res) => {\r\n  res.json({ message: rt.toAPI(req.body) });\r\n});\r\n\r\nroutes.get('/erp/agenda/disponibilidade', (req, res) => {\r\n  // TODO auto routes creator\r\n  const agenda = new Agenda(erp);\r\n  agenda\r\n    .getDisponibilidadeERP(req.query)\r\n    .then(result => {\r\n      res.json({\r\n        messsage: 'sucesso',\r\n        status: 200,\r\n        data: result\r\n      });\r\n    })\r\n    .catch(error => {\r\n      res.json({\r\n        messsage: error,\r\n        status: 400\r\n      });\r\n    });\r\n});\r\n\r\n\r\nexport default routes;\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/routes/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 143,
+    "kind": "variable",
+    "name": "erp",
+    "memberof": "app/routes/index.js",
+    "static": true,
+    "longname": "app/routes/index.js~erp",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/routes/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "type": {
+      "types": [
+        "app/core/erp/index.js~ERPBase"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 144,
+    "kind": "variable",
+    "name": "rt",
+    "memberof": "app/routes/index.js",
+    "static": true,
+    "longname": "app/routes/index.js~rt",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/routes/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "app/helpers/templateEngine.js~TemplateEngine"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 145,
+    "kind": "variable",
+    "name": "routes",
+    "memberof": "app/routes/index.js",
+    "static": true,
+    "longname": "app/routes/index.js~routes",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/routes/index.js",
+    "importStyle": "routes",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 146,
+    "kind": "file",
+    "name": "app/server.js",
+    "content": "import express from 'express';\r\nimport logger from 'morgan';\r\nimport bodyParser from 'body-parser';\r\nimport registerRoutesByPath from './helpers/registerRoutes';\r\n\r\nconst app = express();\r\nconst { PORT = 3000 } = process.env;\r\n\r\napp.disable('x-powered-by');\r\n\r\napp.use(\r\n  logger('dev', {\r\n    skip: () => app.get('env') === 'test'\r\n  })\r\n);\r\n\r\napp.use(bodyParser.json());\r\napp.use(bodyParser.urlencoded({ extended: false }));\r\n\r\n// Routes\r\nregisterRoutesByPath(app, 'modules');\r\n\r\n// Catch 404 and forward to error handler\r\napp.use((req, res, next) => {\r\n  const err = new Error('Not Found');\r\n  err.status = 404;\r\n  next(err);\r\n});\r\n\r\n// Error handler\r\n// eslint-disable-line no-unused-vars\r\napp.use((err, req, res) => {\r\n  res.status(err.status || 500).render('error', {\r\n    message: err.message\r\n  });\r\n});\r\n\r\napp.listen(PORT, () => console.log(`Listening on port ${PORT}`));\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/server.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 147,
+    "kind": "variable",
+    "name": "app",
+    "memberof": "app/server.js",
+    "static": true,
+    "longname": "app/server.js~app",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/server.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 148,
+    "kind": "variable",
+    "name": "PORT",
+    "memberof": "app/server.js",
+    "static": true,
+    "longname": "app/server.js~PORT",
+    "access": "public",
+    "export": false,
+    "importPath": "baymax/app/server.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 149,
+    "kind": "file",
+    "name": "app/util/index.js",
+    "content": "export class NotFoundError extends Error {\r\n  constructor(message) {\r\n    super(`Not Found! Params: ${message}`);\r\n    this.name = 'NotFoundError';\r\n    this.stack = new Error().stack;\r\n  }\r\n}\r\n\r\nexport class ExpiredError extends Error {\r\n  constructor(message) {\r\n    super(`Expired! Params: ${message}`);\r\n    this.name = 'ExpiredError';\r\n    this.stack = new Error().stack;\r\n  }\r\n}\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/util/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 150,
+    "kind": "class",
+    "name": "NotFoundError",
+    "memberof": "app/util/index.js",
+    "static": true,
+    "longname": "app/util/index.js~NotFoundError",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/util/index.js",
+    "importStyle": "{NotFoundError}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "Error"
+    ]
+  },
+  {
+    "__docId__": 151,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "app/util/index.js~NotFoundError",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/util/index.js~NotFoundError#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true
+  },
+  {
+    "__docId__": 152,
+    "kind": "member",
+    "name": "name",
+    "memberof": "app/util/index.js~NotFoundError",
+    "static": false,
+    "longname": "app/util/index.js~NotFoundError#name",
+    "access": "public",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 153,
+    "kind": "member",
+    "name": "stack",
+    "memberof": "app/util/index.js~NotFoundError",
+    "static": false,
+    "longname": "app/util/index.js~NotFoundError#stack",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 154,
+    "kind": "class",
+    "name": "ExpiredError",
+    "memberof": "app/util/index.js",
+    "static": true,
+    "longname": "app/util/index.js~ExpiredError",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/util/index.js",
+    "importStyle": "{ExpiredError}",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "Error"
+    ]
+  },
+  {
+    "__docId__": 155,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "app/util/index.js~ExpiredError",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "app/util/index.js~ExpiredError#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true
+  },
+  {
+    "__docId__": 156,
+    "kind": "member",
+    "name": "name",
+    "memberof": "app/util/index.js~ExpiredError",
+    "static": false,
+    "longname": "app/util/index.js~ExpiredError#name",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 157,
+    "kind": "member",
+    "name": "stack",
+    "memberof": "app/util/index.js~ExpiredError",
+    "static": false,
+    "longname": "app/util/index.js~ExpiredError#stack",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 158,
+    "kind": "file",
+    "name": "app/__mocks__/erp_database.js",
+    "content": "export const ERP_BASE = [\r\n  {\r\n    id: '1',\r\n    name: 'Feegow MOCK',\r\n    enabled: true,\r\n    description: 'Feegow ERP',\r\n    url_base: 'https://0db09cac-ee4b-48a1-9a8b-a3232edabb02.mock.pstmn.io',\r\n    token: 'c4efee8a042b43d189e5fd2a51d9e6c3',\r\n    headers: {\r\n      'access-Control-Allow-Origin': '*',\r\n      'x-api-key': 'c4efee8a042b43d189e5fd2a51d9e6c3'\r\n    },\r\n    actions: [\r\n      {\r\n        name: 'agendaDisponibilidade',\r\n        path: '/appoints/available-schedule',\r\n        method: 'GET',\r\n        params: { query: ['profissional_id', 'pacient_id', 'data_start', 'data_end'] }\r\n      },\r\n      { name: 'agendaStatus', path: '/appoints/status', method: 'GET' },\r\n      { name: 'agendaMotivos', path: '/appoints/motives', method: 'GET' },\r\n      { name: 'agendaCanais', path: '/appoints/list-channel', method: 'GET' },\r\n      {\r\n        name: 'agendaListarAgendamento',\r\n        path: '/appoints/search',\r\n        method: 'GET',\r\n        params: {\r\n          query: ['profissional_id', 'paciente_id', 'data_start', 'data_end']\r\n        }\r\n      },\r\n      {\r\n        name: 'agendaNovoAgendamento',\r\n        path: '/appoints/new-appoint',\r\n        method: 'POST',\r\n        params: {\r\n          body: [\r\n            'local_id',\r\n            'paciente_id',\r\n            'profissional_id',\r\n            'procedimento_id',\r\n            'especialidade_id',\r\n            'data',\r\n            'horario',\r\n            'valor',\r\n            'plano',\r\n            'canal_id'\r\n          ]\r\n        }\r\n      },\r\n      {\r\n        name: 'agendaCancelarAgendamento',\r\n        path: '/appoints/cancel-appoint',\r\n        method: 'POST',\r\n        params: {\r\n          body: ['agendamento_id', 'motivo_id', 'obs']\r\n        }\r\n      },\r\n      {\r\n        name: 'agendaRemarcarAgendamento',\r\n        path: '/appoints/reschedule',\r\n        method: 'POST',\r\n        params: {\r\n          body: ['agendamento_id', 'motivo_id', 'data', 'horario', 'obs']\r\n        }\r\n      }\r\n    ]\r\n  },\r\n  {\r\n    id: '2',\r\n    name: 'Feegow',\r\n    enabled: false,\r\n    description: 'Feegow ERP',\r\n    url_base: 'https://0db09cac-ee4b-48a1-9a8b-a3232edabb02.mock.pstmn.io',\r\n    token: 'xpto',\r\n    headers: {\r\n      'access-Control-Allow-Origin': '*',\r\n      'x-api-key': 'c4efee8a042b43d189e5fd2a51d9e6c3'\r\n    },\r\n    actions: [\r\n      {\r\n        name: 'agendaDisponibilidade',\r\n        path: '/appoints/available-schedule',\r\n        method: 'GET',\r\n        params: { query: 'profissional_id;pacient_id;data_start;data_end' }\r\n      },\r\n      { name: 'agendaStatus', path: '/appoints/status', method: 'GET' }\r\n    ]\r\n  }\r\n];\r\n",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/__mocks__/erp_database.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 159,
+    "kind": "variable",
+    "name": "ERP_BASE",
+    "memberof": "app/__mocks__/erp_database.js",
+    "static": true,
+    "longname": "app/__mocks__/erp_database.js~ERP_BASE",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/__mocks__/erp_database.js",
+    "importStyle": "{ERP_BASE}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "__docId__": 160,
+    "kind": "file",
+    "name": "app/__mocks__/template_api.js",
+    "content": "export const API_TEMPLATE = {\r\n  agenda: 'consulta',\r\n  item: {\r\n    tipo: 'type',\r\n    info: 'description',\r\n    paciente: 'pacient',\r\n    data_hora: 'date_time'\r\n  },\r\n  operate: [\r\n    {\r\n      run: 'Date.parse',\r\n      on: 'data_hora'\r\n    }\r\n  ],\r\n  each: function(item) {\r\n    // make changes\r\n    item.iterated = true;\r\n    return item;\r\n  }\r\n}",
+    "static": true,
+    "longname": "C:/Users/zero/Documents/doutorja/operacao-bighero/erp-integration-layer/app/__mocks__/template_api.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 161,
+    "kind": "variable",
+    "name": "API_TEMPLATE",
+    "memberof": "app/__mocks__/template_api.js",
+    "static": true,
+    "longname": "app/__mocks__/template_api.js~API_TEMPLATE",
+    "access": "public",
+    "export": true,
+    "importPath": "baymax/app/__mocks__/template_api.js",
+    "importStyle": "{API_TEMPLATE}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"agenda\": string, \"item\": *, \"operate\": *, \"each\": *}"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "#BayMax",
+    "longname": "C:\\Users\\zero\\Documents\\doutorja\\operacao-bighero\\erp-integration-layer\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"baymax\",\n  \"version\": \"0.0.1\",\n  \"description\": \"Sistema de Integracao ERP DoutorJA\",\n  \"main\": \"server.js\",\n  \"author\": \"doutorja\",\n  \"license\": \"MIT\",\n  \"private\": true,\n  \"engines\": {\n    \"node\": \">= 8.11.0\"\n  },\n  \"scripts\": {\n    \"starts\": \"nodemon ./app/server.js -e js,json --exec babel-node\",\n    \"startwindows\": \"babel-node --inspect=5858 ./app/server.js\",\n    \"start\": \"pm2 start ./dist/server.js\",\n    \"ts\": \"nodemon ./server.js -e js,json --exec babel-node\",\n    \"prebuild\": \"rm -rf ./dist\",\n    \"build\": \"./node_modules/.bin/babel ./app --out-dir dist/\",\n    \"debug\": \"babel-node ./app/server.js --nolazy --inspect=9229\",\n    \"test\": \"NODE_ENV=test mocha test --exit\",\n    \"generatedoc\": \"./node_modules/.bin/esdoc\"\n  },\n  \"devDependencies\": {\n    \"babel-cli\": \"6.26.0\",\n    \"babel-eslint\": \"8.2.6\",\n    \"babel-plugin-transform-async-generator-functions\": \"^6.24.1\",\n    \"babel-plugin-transform-object-rest-spread\": \"6.26.0\",\n    \"babel-plugin-transform-runtime\": \"^6.23.0\",\n    \"babel-preset-env\": \"1.7.0\",\n    \"babel-preset-es2015\": \"^6.24.1\",\n    \"babel-preset-minify\": \"0.4.3\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-brand-plugin\": \"^1.0.1\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"eslint\": \"^5.4.0\",\n    \"eslint-config-airbnb\": \"17.1.0\",\n    \"eslint-config-prettier\": \"^3.0.1\",\n    \"eslint-plugin-import\": \"2.14.0\",\n    \"eslint-plugin-jsx-a11y\": \"6.1.1\",\n    \"eslint-plugin-node\": \"^7.0.1\",\n    \"eslint-plugin-prettier\": \"^2.6.2\",\n    \"eslint-plugin-react\": \"7.11.0\",\n    \"nodemon\": \"^1.18.3\",\n    \"prettier\": \"1.14.0\",\n    \"prettier-standard\": \"^8.0.1\",\n    \"prettierrc\": \"0.0.0-5\"\n  },\n  \"dependencies\": {\n    \"body-parser\": \"^1.18.3\",\n    \"express\": \"^4.16.3\",\n    \"express-winston\": \"^3.0.0\",\n    \"filter-files\": \"^0.4.0\",\n    \"is-directory\": \"^0.3.1\",\n    \"lodash\": \"^4.17.10\",\n    \"morgan\": \"^1.9.0\",\n    \"node-fetch\": \"^2.2.0\",\n    \"node-json-transform\": \"^1.0.17\",\n    \"unirest\": \"^0.5.1\",\n    \"winston\": \"^3.0.0\"\n  }\n}\n",
+    "longname": "C:\\Users\\zero\\Documents\\doutorja\\operacao-bighero\\erp-integration-layer\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

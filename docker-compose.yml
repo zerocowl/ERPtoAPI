@@ -1,0 +1,12 @@
+version: '2.1'
+
+services:
+  baymax:
+    image: baymax
+    build: .
+    environment:
+      NODE_ENV: production
+    ports:
+      - 3000:3000
+
+      docker exec -it febb690041e329b41f45b97a62cf2b90c981d4dfaa8c66adfba67f1d71c2367e pm2 monit

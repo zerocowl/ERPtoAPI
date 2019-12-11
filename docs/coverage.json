@@ -1,0 +1,216 @@
+{
+  "coverage": "3.7%",
+  "expectCount": 81,
+  "actualCount": 3,
+  "files": {
+    "app/config/config.development.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "app/config/config.homolog.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "app/config/config.production.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "app/config/index.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        5,
+        21
+      ]
+    },
+    "app/core/api/index.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "app/core/erp/index.js": {
+      "expectCount": 8,
+      "actualCount": 0,
+      "undocumentLines": [
+        9,
+        10,
+        11,
+        14,
+        18,
+        22,
+        23,
+        51
+      ]
+    },
+    "app/helpers/registerRoutes.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        8,
+        20,
+        26
+      ]
+    },
+    "app/helpers/templateEngine.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        6,
+        7,
+        11
+      ]
+    },
+    "app/interceptors/http/index.js": {
+      "expectCount": 6,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        5,
+        6,
+        7,
+        10,
+        16
+      ]
+    },
+    "app/interceptors/rpc/index.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "app/middlewares/wrapMiddleware.js": {
+      "expectCount": 3,
+      "actualCount": 3,
+      "undocumentLines": []
+    },
+    "app/modules/agenda/constants.js": {
+      "expectCount": 8,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "app/modules/agenda/controller.js": {
+      "expectCount": 10,
+      "actualCount": 0,
+      "undocumentLines": [
+        5,
+        6,
+        11,
+        31,
+        49,
+        67,
+        85,
+        103,
+        121,
+        139
+      ]
+    },
+    "app/modules/agenda/index.js": {
+      "expectCount": 9,
+      "actualCount": 0,
+      "undocumentLines": [
+        13,
+        14,
+        19,
+        23,
+        27,
+        31,
+        35,
+        39,
+        43
+      ]
+    },
+    "app/modules/agenda/routes.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        5
+      ]
+    },
+    "app/modules/baseModule.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "app/modules/login/index.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    },
+    "app/routes/index.js": {
+      "expectCount": 3,
+      "actualCount": 0,
+      "undocumentLines": [
+        9,
+        10,
+        8
+      ]
+    },
+    "app/server.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        7
+      ]
+    },
+    "app/util/index.js": {
+      "expectCount": 8,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        2,
+        4,
+        5,
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    "app/__mocks__/erp_database.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "app/__mocks__/template_api.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    }
+  }
+}
